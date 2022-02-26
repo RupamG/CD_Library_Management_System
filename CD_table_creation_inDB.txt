@@ -1,0 +1,4 @@
+﻿create table CD(cdId number, cdName varchar2(20), releaseYear number, price number);
+
+
+desc CD;
